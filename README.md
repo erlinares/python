@@ -4,3 +4,5 @@ This is a Course of Python step by step with examples create in Anaconda over Ma
 [Install] (https://github.com/erlinares/python/blob/master/python/install.md)
 
 [Open Anaconda-Navigator] (https://github.com/erlinares/python/blob/master/python/open.md)
+
+[New Project] (https://github.com/erlinares/python/blob/master/python/new.md)
