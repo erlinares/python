@@ -4,7 +4,7 @@ After install, open Anancoda- Navigator
 
 You can see the next window
 
-![Image description](https://github.com/erlinares/python/images/anaconda.png)
+![Image description](https://github.com/erlinares/python/blob/master/python/images/anaconda.png)
 
 Next 
 
