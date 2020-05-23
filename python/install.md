@@ -11,5 +11,4 @@ macOS Catalina 10.15.4
 
 Next [Open] ()
 
-[Python] (https://github.com/erlinares/python)
-
+[Python](https://github.com/erlinares/python)

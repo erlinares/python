@@ -20,8 +20,6 @@ Save you program
  ![Image description](https://github.com/erlinares/python/blob/master/python/images/python_first_2.png)
 
 
-Ready, you wrote your first program
-
 [Code in python] (https://github.com/erlinares/python/blob/master/python/python1.py)
 
-[Python] (https://github.com/erlinares/python)
+[Python](https://github.com/erlinares/python)

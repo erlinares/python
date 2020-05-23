@@ -15,6 +15,4 @@ You can see in Safari navigator the enviroment
  ![Image description](https://github.com/erlinares/python/blob/master/python/images/jupyter_notebook.png)
 
 
-[Python] (https://github.com/erlinares/python)
-
-
+[Python](https://github.com/erlinares/python)
