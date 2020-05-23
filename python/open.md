@@ -1,4 +1,4 @@
-Open Anaconda
+#Open Anaconda
 
 After install, open Anancoda- Navigator
 

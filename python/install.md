@@ -1,4 +1,4 @@
-Install Python in Mac:
+#Install Python in Mac:
 
 macOS Catalina 10.15.4
 
@@ -8,6 +8,8 @@ macOS Catalina 10.15.4
 
 2.- Install in your computer
 
+
+Next [Open] ()
 
 [Python] (https://github.com/erlinares/python)
 
